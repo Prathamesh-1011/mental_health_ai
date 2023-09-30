@@ -1,7 +1,7 @@
 import openai
 import gradio
 
-openai.api_key = "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"
+openai.api_key = config.OPEN_API_KEY
 
 messages = [{"role": "system", "content": 'You are a Mental therapy expert that specializes in psychology and guide through emotions of patient.'}]
 
