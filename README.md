@@ -2,6 +2,19 @@
 
 Link of Project Website : https://prathameshr955.wixsite.com/mindfulai
 
+Technology Stack
+
+A) Frontend 
+   1) WIX
+
+C) Testing 
+   1) Postman : undefined/workspace/openai-api/collection/30169504-bcf23aae-80f2-4d89-9142-9d6aa59c1449?action=share&creator=30169504&active-environment=30169504-a3443469-d8dd-4621-8436-5b570be6ebdf
+      
+B) Backend
+   1) Python
+   2) Gradio
+   3) Hugging Face
+   4) OpenAI API
 AI Assistant Mental Health Chatbot
 
 HOPE: Our Chatbot
@@ -29,12 +42,3 @@ Limitations
 4) Stigmatization
 5) Scope
 
-Technology Stack
-
-A) Frontend 
-   1) WIX
-      
-B) Backend
-   1) Python
-   2) Gradio
-   3) Hugging Face
