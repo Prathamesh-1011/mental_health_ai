@@ -1,6 +1,7 @@
 # HopeAI-Mental Health Assistant
 
 Link of Project Website : https://prathameshr955.wixsite.com/mindfulai
+
 AI Assistant Mental Health Chatbot
 
 HOPE: Our Chatbot
@@ -31,6 +32,7 @@ Limitations
 Technology Stack
 A) Frontend 
    1) WIX
+      
 B) Backend
    1) Python
    2) Gradio
