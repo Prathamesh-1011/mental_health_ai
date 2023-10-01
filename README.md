@@ -10,7 +10,7 @@ Link of Project Website : https://prathameshr955.wixsite.com/mindfulai
 | <img height="50" src="https://github.com/javedkumail/mental_health_ai/assets/107232454/cdc3cff6-afd1-4a3f-a51a-db7a8b8e3800"> |    WIX         | we used wix for the front end designing of the website
 | <img height="50" src="https://github.com/javedkumail/mental_health_ai/assets/107232454/257a1cd3-b0b4-4e49-9d50-4ab7b22f1010"> |    Python      | we used python script for making customGPT backend
 | <img height="50" src="https://github.com/javedkumail/mental_health_ai/assets/107232454/8b005db3-48da-4b12-91dd-e19e80296127"> |     Gradio     | we used gradio python library which is used demo ML model with a friendly web interface
-| <img height="50" src="https://github.com/javedkumail/mental_health_ai/assets/107232454/a9d92fb0-a232-449b-ac8f-ad27388f2f92"> |  Hugging Space | we used Spaces Hugging face Space for deploying our MODEL  
+| <img height="50" src="https://github.com/javedkumail/mental_health_ai/assets/107232454/a9d92fb0-a232-449b-ac8f-ad27388f2f92"> |  Hugging Space | we used Hugging face's Spaces for deploying our MODEL  
 | <img height="50" src="https://github.com/javedkumail/mental_health_ai/assets/107232454/93f84953-ac13-4ca3-93da-972ccfccde11"> |      OpenAI    | we used OpenAI's API GPT 3.5 model
 
 AI Assistant Mental Health Chatbot
