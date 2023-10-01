@@ -30,6 +30,7 @@ Limitations
 5) Scope
 
 Technology Stack
+
 A) Frontend 
    1) WIX
       
