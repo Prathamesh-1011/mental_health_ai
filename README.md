@@ -1,4 +1,4 @@
-# mental_health_ai
+# HopeAI-Mental Health Assistant
 AI Assistant Mental Health Chatbot
 
 HOPE: Our Chatbot
